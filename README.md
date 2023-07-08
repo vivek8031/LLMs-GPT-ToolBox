@@ -41,7 +41,7 @@ To set up and run the application, follow these steps:
 The main dependencies for this project are:
 
 - Streamlit: Used to build the web application interface.
-- ![langchain]([https://github.com/your-user/langchain](https://github.com/hwchase17/langchain.git)): Used for language generation tasks.
+- [langchain](https://github.com/hwchase17/langchain.git): Used for language generation tasks.
 
 ## 🔗 Other References
 
