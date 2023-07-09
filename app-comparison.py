@@ -13,7 +13,7 @@ from langchain.tools.python.tool import PythonREPLTool
 
 
 # Path to weights 
-BASE_PATH = 'C:/Users/User/AppData/Local/nomic.ai/GPT4All/'
+BASE_PATH = 'C:/Users/User/AppData/GPT4All/'
 
 os.environ['OPENAI_API_KEY'] = 'YOUR OPENAI API KEY HERE'
 
